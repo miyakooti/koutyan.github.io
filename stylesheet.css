@@ -118,6 +118,7 @@ header {
 .form:active {
   position:relative;
   top:10px;
+  box-shadow:none;
 }
 footer {
   color:white;

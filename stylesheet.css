@@ -56,10 +56,7 @@ header {
   color:white;
   text-align:center;
 }
-.hinata {
 
-  width:80px;
-}
 .me {
   margin-top:100px;
   width:300px;
@@ -83,7 +80,7 @@ header {
 .contents-wrapper {
   color:white;
   background-color:rgba(255, 255, 255, 0.103);
-  height:1600px;
+  height:1800px;
   margin-top:50px;
 }
 .contents-container {
@@ -127,4 +124,10 @@ footer {
 footer p {
   font-size: 12px;
   opacity:0.7;
+}
+.myname {
+  display:none;
+}
+.work {
+  width:30%;
 }
